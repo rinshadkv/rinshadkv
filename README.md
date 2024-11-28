@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working on a very secret project(hint: nuclear calculator using javascript)
+🔭 I'm currently working on a very secret project(hint: nuclear calculator using javascript)
+- 🌱 I’m currently learning everything possible 
+- 👯 I’m looking to collaborate on impactful open-source projects 
+- 🤔 I’m looking for help with chatGPT
+- 💬 Ask me about food and football then code 
+- 📫 How to reach me: follow me on my social media 
+- 😄 Pronouns: him/he (binary(1))
+- ⚡ Fun fact: I don't have a cs degree 
 
 
 ## 🌐 Socials:
